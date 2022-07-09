@@ -43,9 +43,9 @@
                 Codigo:
             </label> <br>
             <select name="codigo" id="codigo" require">
-                <option value="1">Activo</option>
-                <option value="2">Inactivo</option>
-                <option value="3">En Espera</option>
+                <option value="1">Netflix</option>
+                <option value="2">Amazon</option>
+                <option value="3">Crunchyroll</option>
             </select><br> <br>
             <input class="btn btn-success" type="submit" value="Actualizar Cliente"><br> <br>
             <a class="btn btn-warning" href="index.php">Regresar</a>
