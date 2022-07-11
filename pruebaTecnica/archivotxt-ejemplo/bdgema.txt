@@ -1,7 +1,7 @@
-perp@gmail.com,pedro,1
-sar@gmail.com,rttrcos,2
-scr@gmail.com,marcos,2
-oscar@gmail.com,macos,3
-sar@gmail.com,eros,3
-sr@gmail.com,tyrcos,1
-scerrr@gmail.com,mrdcos,2
+1,perp@gmail.com,pedro,1
+2,sar@gmail.com,rttrcos,2
+3,scr@gmail.com,marcos,2
+4,oscar@gmail.com,macos,3
+5,sar@gmail.com,eros,3
+6,sr@gmail.com,tyrcos,1
+7,scerrr@gmail.com,mrdcos,2

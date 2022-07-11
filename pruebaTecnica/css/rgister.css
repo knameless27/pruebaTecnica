@@ -1,0 +1,33 @@
+body {
+    background-image: url(https://images.alphacoders.com/716/thumb-1920-716909.jpg);
+}
+
+.card {
+    margin-top: 45%;
+    padding: 1%;
+    width: 240px;
+    height: 254px;
+    background: rgb(236, 236, 236);
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+.lginImg {
+    display: block;
+    margin: auto;
+}
+
+.log {
+    text-align: center;
+}
+
+.main {
+    height: 150px;
+    /*IMPORTANTE*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    text-align: center;
+}

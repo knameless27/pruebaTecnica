@@ -30,6 +30,8 @@
     </ul>
     <div class="my-2 my-lg-0">
       <h5 class="navbar-brand">Adjuntar Archivo Txt a MYSQL </h5>
+      <a href="/proyectos/pruebaTecnica/pruebaTecnica/login.php"><button type="button" class="btn btn-primary">Iniciar sesión</button></a>
+<a href="/proyectos/pruebaTecnica/pruebaTecnica/register.php"><button type="button" class="btn btn-secondary">Registrarse</button></a>
     </div>
   </nav>
   <hr>
